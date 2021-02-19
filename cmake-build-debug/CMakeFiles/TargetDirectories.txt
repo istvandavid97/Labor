@@ -1,0 +1,3 @@
+D:/Work/Adatszerkezet I/DcsoportDemo/cmake-build-debug/CMakeFiles/DcsoportDemo.dir
+D:/Work/Adatszerkezet I/DcsoportDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/Adatszerkezet I/DcsoportDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
